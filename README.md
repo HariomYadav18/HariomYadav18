@@ -114,11 +114,11 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <h3 align="center">🏆 Top Contributions</h3>
@@ -137,7 +137,3 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
     <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
-
-  <img src="https://visitcount.itsvg.in/api?id=HariomYadav18&color=6" />
-</p>
