@@ -113,18 +113,9 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariomYadav18&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&layout=compact&theme=dark&hide_border=true" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=true" alt="streak graph" />
-</div>
-
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <h3 align="center">🏆 Top Contributions</h3>
 
