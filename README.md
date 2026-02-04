@@ -21,14 +21,14 @@
 
 Hi, I’m Hariom Yadav, a passionate Full Stack Developer pursuing my B.Tech in Computer Science and Engineering at VIT Bhopal University. I specialize in MERN stack development and have hands-on experience building real-time applications using Socket.IO, JWT-based authentication, and modular backend APIs. I am proficient in frontend technologies such as React and Tailwind CSS, as well as backend technologies including Node.js, Express.js, MySQL, and MongoDB.<br><br>
 I enjoy solving complex problems, optimizing web applications, and continuously learning emerging technologies to build scalable and secure software solutions. You can explore my projects and contributions here on GitHub, where I actively work on diverse applications ranging from real-time chat platforms to full-scale web solutions.<br><br>
-Let’s connect and build something amazing together!
+
 
 - 🔭 I’m currently working on **Real-time chat platforms & Full-scale web solutions**.
 - 🌱 I’m currently learning **Advanced Backend Architecture & emerging web technologies**.
 - 💡 I enjoy solving complex problems using **Socket.IO, JWT Auth, and Modular APIs**.
 - 👯 I’m looking to collaborate on **Open Source projects & Innovative Web Apps**.
 
-  Let’s connect and build something amazing together!
+Let’s connect and build something amazing together!
 
 ---
 
