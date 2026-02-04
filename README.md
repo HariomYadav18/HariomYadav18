@@ -19,12 +19,16 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal University**, specializing in **MERN stack development**. I love building scalable, secure, and real-time web applications.
+Hi, I’m Hariom Yadav, a passionate Full Stack Developer pursuing my B.Tech in Computer Science and Engineering at VIT Bhopal University. I specialize in MERN stack development and have hands-on experience building real-time applications using Socket.IO, JWT-based authentication, and modular backend APIs. I am proficient in frontend technologies such as React and Tailwind CSS, as well as backend technologies including Node.js, Express.js, MySQL, and MongoDB.<br><br>
+I enjoy solving complex problems, optimizing web applications, and continuously learning emerging technologies to build scalable and secure software solutions. You can explore my projects and contributions here on GitHub, where I actively work on diverse applications ranging from real-time chat platforms to full-scale web solutions.<br><br>
+
 
 - 🔭 I’m currently working on **Real-time chat platforms & Full-scale web solutions**.
 - 🌱 I’m currently learning **Advanced Backend Architecture & emerging web technologies**.
 - 💡 I enjoy solving complex problems using **Socket.IO, JWT Auth, and Modular APIs**.
 - 👯 I’m looking to collaborate on **Open Source projects & Innovative Web Apps**.
+
+Let’s connect and build something amazing together!
 
 ---
 
@@ -114,11 +118,11 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+![](https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 <h3 align="center">🏆 Top Contributions</h3>
@@ -137,3 +141,4 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
     <img src="https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
