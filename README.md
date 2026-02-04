@@ -112,15 +112,19 @@ I'm a passionate **Computer Science and Engineering student** at **VIT Bhopal Un
 ---
 
 ### 📊 GitHub Statistics
+
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=HariomYadav18&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariomYadav18&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </div>
+
 <h3 align="center">🏆 Top Contributions</h3>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=HariomYadav18&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=HariomYadav18&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div>
 
 ---
